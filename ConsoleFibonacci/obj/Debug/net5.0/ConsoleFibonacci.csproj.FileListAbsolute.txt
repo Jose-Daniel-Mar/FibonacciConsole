@@ -1,0 +1,16 @@
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\bin\Debug\net5.0\ConsoleFibonacci.exe
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\bin\Debug\net5.0\ConsoleFibonacci.deps.json
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\bin\Debug\net5.0\ConsoleFibonacci.runtimeconfig.json
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\bin\Debug\net5.0\ConsoleFibonacci.runtimeconfig.dev.json
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\bin\Debug\net5.0\ConsoleFibonacci.dll
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\bin\Debug\net5.0\ref\ConsoleFibonacci.dll
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\bin\Debug\net5.0\ConsoleFibonacci.pdb
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\obj\Debug\net5.0\ConsoleFibonacci.csprojAssemblyReference.cache
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\obj\Debug\net5.0\ConsoleFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\obj\Debug\net5.0\ConsoleFibonacci.AssemblyInfoInputs.cache
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\obj\Debug\net5.0\ConsoleFibonacci.AssemblyInfo.cs
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\obj\Debug\net5.0\ConsoleFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\obj\Debug\net5.0\ConsoleFibonacci.dll
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\obj\Debug\net5.0\ref\ConsoleFibonacci.dll
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\obj\Debug\net5.0\ConsoleFibonacci.pdb
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacci\obj\Debug\net5.0\ConsoleFibonacci.genruntimeconfig.cache

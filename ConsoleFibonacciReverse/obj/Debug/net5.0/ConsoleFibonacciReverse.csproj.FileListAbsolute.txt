@@ -1,0 +1,16 @@
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\bin\Debug\net5.0\ConsoleFibonacciReverse.exe
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\bin\Debug\net5.0\ConsoleFibonacciReverse.deps.json
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\bin\Debug\net5.0\ConsoleFibonacciReverse.runtimeconfig.json
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\bin\Debug\net5.0\ConsoleFibonacciReverse.runtimeconfig.dev.json
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\bin\Debug\net5.0\ConsoleFibonacciReverse.dll
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\bin\Debug\net5.0\ref\ConsoleFibonacciReverse.dll
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\bin\Debug\net5.0\ConsoleFibonacciReverse.pdb
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\obj\Debug\net5.0\ConsoleFibonacciReverse.csprojAssemblyReference.cache
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\obj\Debug\net5.0\ConsoleFibonacciReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\obj\Debug\net5.0\ConsoleFibonacciReverse.AssemblyInfoInputs.cache
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\obj\Debug\net5.0\ConsoleFibonacciReverse.AssemblyInfo.cs
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\obj\Debug\net5.0\ConsoleFibonacciReverse.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\obj\Debug\net5.0\ConsoleFibonacciReverse.dll
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\obj\Debug\net5.0\ref\ConsoleFibonacciReverse.dll
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\obj\Debug\net5.0\ConsoleFibonacciReverse.pdb
+C:\Users\Daniel Mar\source\repos\ConsoleFibonacci\ConsoleFibonacciReverse\obj\Debug\net5.0\ConsoleFibonacciReverse.genruntimeconfig.cache
