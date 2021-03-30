@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel Mar\\source\\repos\\ConsoleFibonacci\\ConsoleFibonacciReverse\\ConsoleFibonacciReverse.csproj",
+      "projectUniqueName": "C:\\Git\\ConsoleFibonacci\\ConsoleFibonacciReverse\\ConsoleFibonacciReverse.csproj",
       "projectName": "ConsoleFibonacciReverse",
-      "projectPath": "C:\\Users\\Daniel Mar\\source\\repos\\ConsoleFibonacci\\ConsoleFibonacciReverse\\ConsoleFibonacciReverse.csproj",
+      "projectPath": "C:\\Git\\ConsoleFibonacci\\ConsoleFibonacciReverse\\ConsoleFibonacciReverse.csproj",
       "packagesPath": "C:\\Users\\Daniel Mar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel Mar\\source\\repos\\ConsoleFibonacci\\ConsoleFibonacciReverse\\obj\\",
+      "outputPath": "C:\\Git\\ConsoleFibonacci\\ConsoleFibonacciReverse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel Mar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Mar\\source\\repos\\ConsoleFibonacci\\ConsoleFibonacci\\ConsoleFibonacci.csproj": {}
+    "C:\\Git\\ConsoleFibonacci\\ConsoleFibonacci\\ConsoleFibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Mar\\source\\repos\\ConsoleFibonacci\\ConsoleFibonacci\\ConsoleFibonacci.csproj": {
+    "C:\\Git\\ConsoleFibonacci\\ConsoleFibonacci\\ConsoleFibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Mar\\source\\repos\\ConsoleFibonacci\\ConsoleFibonacci\\ConsoleFibonacci.csproj",
+        "projectUniqueName": "C:\\Git\\ConsoleFibonacci\\ConsoleFibonacci\\ConsoleFibonacci.csproj",
         "projectName": "ConsoleFibonacci",
-        "projectPath": "C:\\Users\\Daniel Mar\\source\\repos\\ConsoleFibonacci\\ConsoleFibonacci\\ConsoleFibonacci.csproj",
+        "projectPath": "C:\\Git\\ConsoleFibonacci\\ConsoleFibonacci\\ConsoleFibonacci.csproj",
         "packagesPath": "C:\\Users\\Daniel Mar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Mar\\source\\repos\\ConsoleFibonacci\\ConsoleFibonacci\\obj\\",
+        "outputPath": "C:\\Git\\ConsoleFibonacci\\ConsoleFibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Mar\\AppData\\Roaming\\NuGet\\NuGet.Config",
